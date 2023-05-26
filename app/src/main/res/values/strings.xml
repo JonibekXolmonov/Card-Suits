@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Card Suits</string>
+
+    <string name="str_rules">Rules</string>
+    <string name="str_game">Game</string>
+    <string name="str_sound">SOUND</string>
+    <string name="str_vibration">VIBRATION</string>
+
+    //ru
+    <string name="str_sound_ru">ЗВУК</string>
+    <string name="str_vibration_ru">ВИБРАЦИЯ</string>
+    <string name="str_game_ru">ИГРА</string>
+    <string name="str_rules_ru">ПРАВИЛА</string>
+
+</resources>
